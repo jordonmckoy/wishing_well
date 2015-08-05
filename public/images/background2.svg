@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="/home/jmckoy/dev/web/socket-io/wishing_well/public/images/background1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="background2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.62138672"
+     inkscape:cx="982.40138"
+     inkscape:cy="542.50518"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Sky"
+     transform="translate(0,120)">
+    <rect
+       style="fill:#a3efff;fill-opacity:1"
+       id="rect2986"
+       width="1955.3041"
+       height="1112.0289"
+       x="-14.483734"
+       y="-132.71727" />
+  </g>
+  <g
+     inkscape:label="Grass"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.637832)">
+    <path
+       style="fill:#0d9000;fill-opacity:1"
+       d="m 1005.794,564.60488 c -371.46064,0 -723.33586,11.42585 -1037.980934,31.809 l 0,597.79902 c 314.645074,20.3831 666.520294,31.809 1037.980934,31.809 338.2466,0 660.2741,-9.4708 952.7284,-26.5513 l 0,-608.3144 C 1666.0681,574.07571 1344.0406,564.60488 1005.794,564.60488 z"
+       id="path3756"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

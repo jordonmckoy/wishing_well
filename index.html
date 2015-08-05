@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Socket.IO chat</title>
+    <link href="/css/flags32.css" rel="stylesheet" type="text/css"></style>
+    <link href="/images/open-iconic/font/css/open-iconic.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet" type="text/css"></style>
+  </head>
+  <body>
+
+    <div id="greeting">
+      <h1>Wishing Well</h1>
+      <h2>Make a wish while viewing wishes from all around the world!</h2>
+    </div>
+    
+    <div id="grass"></div>
+    <div id="well">
+      <div id="display">
+        I wish...
+        <div id="fadebox">
+          <p id="wishbox"><p>
+          <ul class="f32">
+            <li id="flagbox" class=""></li>
+          </ul>
+        </div>
+      </div>
+    </div>    
+
+    <form action="">
+      <p>© Copyright Jam Labs 2015</p>
+      <input id="m" maxlength="140" minlength="2" autocomplete="off" />
+      <input id="submit" type="submit" value="Submit">
+      <input id="location" class="locOn" type="button" value="Location">
+      
+    </form>
+
+    <script src="https://cdn.socket.io/socket.io-1.2.0.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+    <script src="/js/logic.js"></script>
+  </body>
+</html>
