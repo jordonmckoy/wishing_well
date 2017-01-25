@@ -1,5 +1,4 @@
 # The Wishing Well
-# © JAM Labs 2015
 
 Modified the socket-io chat example.
 
